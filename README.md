@@ -10,9 +10,3 @@
 2. MovieItem.js -
   While running the program on the local server i noticed that pressing the buttons of the movies doesnt make any effect.
    in order to fix this problem, inside the file MovieItem.js i changed the button element- onMovieSelect(movie) (add "movie" inside the brackets) so the button will have his funcionality
-# ZoomIn
-# ZoomIn
-# ZoomIn
-# ZoomIn
-# ZoomIn
-# ZoomIn
