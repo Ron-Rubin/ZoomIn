@@ -96,21 +96,6 @@
     color: rgb(47, 46, 46);
 }
 
-.likeButtonChanger {
-    position: absolute;
-    width: 23px;
-    height: 23px;
-    margin-top: 250px;
-    margin-left:-45%;
-    padding: 0px 15px;
-    outline: 0;
-    border: 0;
-    color: rgb(51, 68, 255);
-    font-size: 23px;
-    user-select: none;
-    background-color: transparent;
-}
-
 .infoBox {
     position: absolute;
     width: 45vw;
