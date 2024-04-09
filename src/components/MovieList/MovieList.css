@@ -1,0 +1,23 @@
+@media (min-width: 600px) {
+    .listZone { 
+        grid-template-columns: repeat(3, 1fr);}
+}
+
+@media (min-width: 1200px) {
+    .listZone { 
+        grid-template-columns: repeat(6, 1fr);}
+}
+
+.listZone {
+    width: 91vw;
+    display: grid;
+    margin-top: 15px;
+    height: 100%;
+    margin-left: -15px;
+}
+
+.listPlacer {
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 15px;
+}
